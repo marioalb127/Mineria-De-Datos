@@ -6,4 +6,4 @@
 # Actividad-en-equipo-base-de-Datos
 [Actividad en equipo, base de Datos](https://github.com/marioalb127/MinDat2021/blob/main/EjercicioLimpiezaDeDatos_E3.ipynb?fbclid=IwAR28zv0mUvO5huJygYKPLkyFvek7cF2C6t0kc3PndVSKdjQql9wYcq6Gm5M)
 # Actividad-Ejercicios-Basicos-de-Python 
-[Actividad Ejercicios Basicos de Python] (https://github.com/LuisAngelRuiz/Mineria-De-Datos/blob/main/Ej_Python_1862717.ipynb) 
+[Actividad Ejercicios Basicos de Python](https://github.com/LuisAngelRuiz/Mineria-De-Datos/blob/main/Ej_Python_1862717.ipynb) 
